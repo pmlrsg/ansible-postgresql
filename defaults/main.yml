@@ -5,8 +5,8 @@ postgresql_database_owner: "{{ postgresql_admin_user }}"
 postgresql_locale: "en_US.UTF-8"
 postgresql_packages: "{{ postgresql_packages_default }}"
 #
-postgresql_yum_repo_url: ""
-postgresql_yum_rpm_key: ""
+#postgresql_yum_repo_url: ""
+#postgresql_yum_rpm_key: ""
 #
 postgresql_users: []
 postgresql_databases: []
